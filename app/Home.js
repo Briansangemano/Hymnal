@@ -66,6 +66,26 @@ export default class Home extends Component {
         return this.props.navigation.navigate('Himno19')
       case ("20"):
         return this.props.navigation.navigate('Himno20')
+      case ("21"):
+        return this.props.navigation.navigate('Himno21')
+      case ("22"):
+        return this.props.navigation.navigate('Himno22')
+      case ("23"):
+        return this.props.navigation.navigate('Himno23')
+      case ("24"):
+        return this.props.navigation.navigate('Himno24')
+      case ("25"):
+        return this.props.navigation.navigate('Himno25')
+      case ("26"):
+        return this.props.navigation.navigate('Himno26')
+      case ("27"):
+        return this.props.navigation.navigate('Himno27')
+      case ("28"):
+        return this.props.navigation.navigate('Himno28')
+      case ("29"):
+        return this.props.navigation.navigate('Himno29')
+      case ("30"):
+        return this.props.navigation.navigate('Himno30')
       default:
         return this.props.navigation.navigate('Error')
     }

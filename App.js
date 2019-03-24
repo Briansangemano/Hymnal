@@ -24,6 +24,16 @@ import Himno17 from './app/himnos/himno17'
 import Himno18 from './app/himnos/himno18'
 import Himno19 from './app/himnos/himno19'
 import Himno20 from './app/himnos/himno20'
+import Himno21 from './app/himnos/himno21'
+import Himno22 from './app/himnos/himno22'
+import Himno23 from './app/himnos/himno23'
+import Himno24 from './app/himnos/himno24'
+import Himno25 from './app/himnos/himno25'
+import Himno26 from './app/himnos/himno26'
+import Himno27 from './app/himnos/himno27'
+import Himno28 from './app/himnos/himno28'
+import Himno29 from './app/himnos/himno29'
+import Himno30 from './app/himnos/himno30'
 
 const MainNavigator = createStackNavigator({
   //Home: { screen: Home, navigationOptions: {header: null},},
@@ -49,7 +59,17 @@ const MainNavigator = createStackNavigator({
   Himno17: { screen: Himno17, navigationOptions: () => ({title: 'LIBERAR EL ESPÍRITU', headerStyle: { backgroundColor: '#D3D3D3'}}), },
   Himno18: { screen: Himno18, navigationOptions: () => ({title: 'ESTAR EN CRISTO', headerStyle: { backgroundColor: '#D3D3D3'}}), },
   Himno19: { screen: Himno19, navigationOptions: () => ({title: 'OH, MI AMADO', headerStyle: { backgroundColor: '#D3D3D3'}}), },
-  Himno20: { screen: Himno20, navigationOptions: () => ({title: 'ATADO A LA VID', headerStyle: { backgroundColor: '#D3D3D3'}}), },
+  Himno20: { screen: Himno20, navigationOptions: () => ({title: 'ATADO FUI A LA VID', headerStyle: { backgroundColor: '#D3D3D3'}}), },
+  Himno21: { screen: Himno21, navigationOptions: () => ({title: 'NO TEMERÉ', headerStyle: { backgroundColor: '#D3D3D3'}}), },
+  Himno22: { screen: Himno22, navigationOptions: () => ({title: '¿COMO NO TE HE DE AMAR?', headerStyle: { backgroundColor: '#D3D3D3'}}), },
+  Himno23: { screen: Himno23, navigationOptions: () => ({title: 'EN LA VIDA DE LA IGLESIA', headerStyle: { backgroundColor: '#D3D3D3'}}), },
+  Himno24: { screen: Himno24, navigationOptions: () => ({title: 'NOÉ LLEVO UNA VIDA', headerStyle: { backgroundColor: '#D3D3D3'}}), },
+  Himno25: { screen: Himno25, navigationOptions: () => ({title: 'LA FE MARAVILLOSA', headerStyle: { backgroundColor: '#D3D3D3'}}), },
+  Himno26: { screen: Himno26, navigationOptions: () => ({title: 'SABES QUE FUISTE ESCOGIDO', headerStyle: { backgroundColor: '#D3D3D3'}}), },
+  Himno27: { screen: Himno27, navigationOptions: () => ({title: 'LA TRINIDAD: MISTERIO', headerStyle: { backgroundColor: '#D3D3D3'}}), },
+  Himno28: { screen: Himno28, navigationOptions: () => ({title: 'NUNCA PENSÉ', headerStyle: { backgroundColor: '#D3D3D3'}}), },
+  Himno29: { screen: Himno29, navigationOptions: () => ({title: 'AMOR DE DIOS, GRACIA DE CRISTO ', headerStyle: { backgroundColor: '#D3D3D3'}}), },
+  Himno30: { screen: Himno30, navigationOptions: () => ({title: 'CRISTO VIDA VINO A SER', headerStyle: { backgroundColor: '#D3D3D3'}}), },
   Error: { screen: Error, navigationOptions: {headerStyle: { backgroundColor: '#D3D3D3'}} }
 });
 

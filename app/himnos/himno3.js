@@ -45,8 +45,10 @@ export default class Himno3 extends Component {
                         Ciego y errante yo busqué,{'\n'}
                         Una viva fuente encontré.{'\n'}
                         {'\n'}
+                        <Text style={{fontWeight: 'bold'}}>
                         Día tras día, te amo más,{'\n'}
                         Y hoy te amo Señor, aún mucho más.{'\n'}
+                        </Text>
                         {'\n'}
                         5	Oh Señor viniste a mí en amor,{'\n'}
                         Con dulcísima satisfacción,{'\n'}

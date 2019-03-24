@@ -38,10 +38,12 @@ export default class Himno17 extends Component {
                         Plenamente a Cristo yo puedo disfrutar, {'\n'}
                         Mi espíritu al liberar.{'\n'}
                         {'\n'}
+                        <Text style={{fontWeight: 'bold'}}>
                         ¡Liberar! ¡Liberar! {'\n'}
                         Mi espíritu, sí liberar.{'\n'}
                         Plenamente a Cristo yo puedo disfrutar, {'\n'}
                         Mi espíritu al liberar.{'\n'}
+                        </Text>
                         {'\n'}
                         3	Dejo tradiciones y todo lo formal,{'\n'}
                         En frescor de vida quiero estar:{'\n'}

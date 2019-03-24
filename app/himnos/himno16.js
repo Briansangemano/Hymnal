@@ -29,7 +29,7 @@ export default class Himno16 extends Component {
                         {'\n'}
                         {'\n'}
                         <Text style={{fontWeight: 'bold'}}>
-                        Hoy por fe declaro{'\n'}
+                        Hoy por fe declaro
                         {'\n'}
                         Que en mi corazón
                         {'\n'}

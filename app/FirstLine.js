@@ -72,11 +72,35 @@ export default class MainMenu extends Component {
                     <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno20')}>
                         <Text style={styles.text}>-ATADO FUI A LA VID</Text>
                     </TouchableOpacity>
-                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno20')}>
-                        <Text style={styles.text}>-ATADO FUI A LA VID</Text>
+                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno21')}>
+                        <Text style={styles.text}>-NO TEMERÉ</Text>
                     </TouchableOpacity>
-                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno20')}>
-                        <Text style={styles.text}>-ATADO FUI A LA VID</Text>
+                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno22')}>
+                        <Text style={styles.text}>-¿COMO NO TE HE DE AMAR?</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno23')}>
+                        <Text style={styles.text}>-EN LA VIDA DE LA IGLESIA</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno24')}>
+                        <Text style={styles.text}>-NOÉ LLEVO UNA VIDA</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno25')}>
+                        <Text style={styles.text}>-LA FE MARAVILLOSA</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno26')}>
+                        <Text style={styles.text}>-SABES QUE FUISTE ESCOGIDO</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno27')}>
+                        <Text style={styles.text}>-LA TRINIDAD: MISTERIO</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno28')}>
+                        <Text style={styles.text}>-NUNCA PENSÉ </Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno29')}>
+                        <Text style={styles.text}>-AMOR DE DIOS, GRACIA DE CRISTO</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.boton} onPress={() => this.props.navigation.navigate('Himno30')}>
+                        <Text style={styles.text}>-CRISTO VIDA VINO A SER</Text>
                     </TouchableOpacity>
                 </View>
             </View>
